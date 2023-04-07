@@ -1,2 +1,2 @@
-# CoSMoR
-Compositional-Stimulus and Model-Response framework to extract exact decision-making process along continuous compositional pathways for machine learning models trained for material properties.
+# Compositional-Stimulus and Model-Response (CoSMoR)framework 
+##  Extracts exact decision-making process along continuous compositional pathways in machine learning models trained for material properties.
