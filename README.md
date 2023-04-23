@@ -1,7 +1,7 @@
 # Compositional-Stimulus and Model-Response (CoSMoR) framework 
 ### Publication details:
 [CoSMoR: Decoding decision-making process along continuous composition pathways in machine learning models trained for material properties](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.043802)
-- **Authors** : Dishant Beniwal [^1], Pratik K. Ray [^1]
+- **Authors** : [Dishant Beniwal](https://github.com/d-beniwal) [^1], Pratik K. Ray [^1]
 - **Journal** : Physical Review Materials
 - **DOI** : https://doi.org/10.1103/PhysRevMaterials.7.043802
 [^1]: Department of Metallurgical and Materials Engineering, Indian Institute of Technology Ropar, Rupnagar 140001, Punjab, India
